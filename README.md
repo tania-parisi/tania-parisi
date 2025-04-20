@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tania-parisi
-- 👀 I’m interested in Full stack development
+- 👀 I’m interested in Full stack development and AI
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on projects to improve my skills
 - 📫 How to reach me ...
